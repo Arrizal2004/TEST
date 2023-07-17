@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "4832359b3b28af3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "28a4ae57c667ae2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72638cc1c51dcb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder 1/Judul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d11d1ec6cd16fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd9f787627b6f539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdda065a309d0223",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e94c980ae4dc856e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb330e1be129659f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2847fc1c4b704381",
+    "type": "split",
+    "children": [
+      {
+        "id": "30cda2da5fe2ecf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b480c4ca985b78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Folder 1/Judul.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac756a4480de191c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Folder 1/Judul.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a298ccf93571180",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4e714a4542c2a80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Folder 1/Judul.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72638cc1c51dcb6f",
+  "lastOpenFiles": [
+    "Screenshot (375).png",
+    "Folder 1/Judul.md",
+    "Screenshot 2023-04-30 172605.png",
+    "Folder 1"
+  ]
+}
